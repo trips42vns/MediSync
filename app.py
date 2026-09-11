@@ -11,3 +11,12 @@ class Patient:
 if __name__=="__main__":
     patient1= Patient("John Doe", 45, "Diabetes")
     print(patient1.display_info())
+
+
+
+# <<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>
+"""
+Authenticator function 
+Is not getting pasted. place holder for new code added in branch feature-authentication
+"""
+# <<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>
